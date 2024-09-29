@@ -1,3 +1,4 @@
+//lex3
 %option noyywrap
 %{
 #include<stdio.h>
